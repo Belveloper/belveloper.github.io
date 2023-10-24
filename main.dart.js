@@ -80569,7 +80569,7 @@ $iaaz:1}
 A.acV.prototype={
 $0(){var s=$.aeh.i(0,"linkedin")
 s.toString
-return new A.hF(s,"Let's\nConnect","on LinkedIn","https://www.linkedin.com/in/abderrahmane-belhadj-59746a167/")},
+return new A.hF(s,"Let's\nConnect","Abderrahmane on LinkedIn","https://www.linkedin.com/in/abderrahmane-belhadj-59746a167/")},
 $S:482}
 A.OK.prototype={
 kk(a,b){var s=A.uX(a,t.A2)
@@ -80765,7 +80765,7 @@ $iaaG:1}
 A.acW.prototype={
 $0(){var s=$.aeh.i(0,"twitter")
 s.toString
-return new A.i_(s,"Follow me","on Twitter","@mimoubelhadj16","https://x.com/mimoubelhadj16")},
+return new A.i_(s,"Follow me","on Twitter","Abderrahmane on Twitter","https://x.com/mimoubelhadj16")},
 $S:498}
 A.TF.prototype={
 kk(a,b){var s=A.uX(a,t.hC)
