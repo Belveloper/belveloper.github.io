@@ -80521,7 +80521,7 @@ $iaax:1}
 A.acU.prototype={
 $0(){var s=$.aeh.i(0,"github")
 s.toString
-return new A.hy(s,"Check out\nMy Repos","Belveloper on Github","https://github.com/belveloper")},
+return new A.hy(s,"Check out\nMy projects","Belveloper on Github","https://github.com/Belveloper?tab=repositories")},
 $S:475}
 A.NR.prototype={
 kk(a,b){var s=A.uX(a,t.NF)
